@@ -4,7 +4,7 @@
 
 
 ```python
-class Attributes(kehanet):
+class Attributes(swiland):
     @staticmethod
     def language() -> str:
         """
